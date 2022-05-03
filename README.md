@@ -1,3 +1,4 @@
+# Penguin Supermarket
 <p>For this task you should only use classes and their methods from the package <code>java.lang</code>, no imports allowed
 apart from the ones we have made available to you in your git repository.</p>
 <p>Penguins go shopping and unfortunately they are now firmly convinced that they must have a supermarket for this.
